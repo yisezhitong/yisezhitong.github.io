@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 15:46:59 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 16:29:35 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wcnm</title>
+      <link>/posts/wcnm/</link>
+      <pubDate>Sat, 01 Jul 2023 16:29:35 +0800</pubDate>
+      
+      <guid>/posts/wcnm/</guid>
+      <description>
+        
+          
+            这是我在创建博客时出现的问题： 1.我下载错了资料，结果安装程序与我的电脑脑不兼容，本来是想在g盘建立文件，发现不对后在c盘建的，原来的变量地址也发生了错误。 2.下载的主题目录是子文件夹，直接把主文件夹贴入进去了。导致运行博客不成功。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
